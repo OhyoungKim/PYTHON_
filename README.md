@@ -1,2 +1,3 @@
 # PYTHON_Machine-Learning
-Predictive Model Development (Regression Model, Classification Model), Hyperparameter Tuning
+-	Developed regression models to predict the revenue; identified key sectors to derive in-depth business insights
+-	Built classification models to predict the success of wine cross-selling promotion and performed hyperparameter tuning to improve explanatory power of the models; achieved 0.781 AUC score using tuned Random Forest
